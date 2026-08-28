@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel administrativo — Creaciones Alicia</title>
+<link rel="icon" href="../images/site/logo.png">
+<link rel="stylesheet" href="../css/styles.css">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin-body">
+
+<div class="admin-layout">
+  <aside class="admin-sidebar" id="sidebar">
+    <div class="admin-sidebar__marca">
+      <img src="../images/site/logo.png" alt="Logo">
+      <span>Panel Alicia</span>
+    </div>
+    <nav class="admin-nav" id="admin-nav">
+      <button data-vista="dashboard" class="activo">📊 Resumen</button>
+      <button data-vista="productos">🌷 Productos</button>
+      <button data-vista="categorias">🗂️ Categorías</button>
+      <button data-vista="ofertas">🏷️ Ofertas y destacados</button>
+      <button data-vista="temporadas">🍂 Temporadas y campañas</button>
+      <button data-vista="tiktok">🎵 TikTok viral</button>
+      <button data-vista="contenido">✏️ Contenido del sitio</button>
+      <button data-vista="mensajes">📩 Mensajes de contacto</button>
+      <button data-vista="eventos">🎉 Cotizaciones de eventos</button>
+      <button data-vista="cuenta">🔑 Mi cuenta</button>
+    </nav>
+    <div class="admin-sidebar__salir">
+      <button id="btn-cerrar-sesion" style="color:#f3b6b6;">🚪 Cerrar sesión</button>
+    </div>
+  </aside>
+
+  <main class="admin-main">
+    <div class="admin-topbar">
+      <button class="admin-menu-toggle" id="btn-menu-toggle">☰ Menú</button>
+      <h1 id="titulo-vista">Resumen</h1>
+      <a href="/index.html" target="_blank" class="btn btn--secundario btn--chico">Ver sitio público ↗</a>
+    </div>
+
+    <div id="vista-dashboard" class="vista"></div>
+    <div id="vista-productos" class="vista" style="display:none;"></div>
+    <div id="vista-categorias" class="vista" style="display:none;"></div>
+    <div id="vista-ofertas" class="vista" style="display:none;"></div>
+    <div id="vista-temporadas" class="vista" style="display:none;"></div>
+    <div id="vista-tiktok" class="vista" style="display:none;"></div>
+    <div id="vista-contenido" class="vista" style="display:none;"></div>
+    <div id="vista-mensajes" class="vista" style="display:none;"></div>
+    <div id="vista-eventos" class="vista" style="display:none;"></div>
+    <div id="vista-cuenta" class="vista" style="display:none;"></div>
+  </main>
+</div>
+
+<!-- Modal genérico para formularios (producto / categoría) -->
+<div class="modal-fondo" id="modal-fondo">
+  <div class="modal" id="modal-contenido"></div>
+</div>
+
+<script src="js/admin.js"></script>
+</body>
+</html>

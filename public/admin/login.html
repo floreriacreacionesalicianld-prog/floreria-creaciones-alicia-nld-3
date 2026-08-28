@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Iniciar sesión — Panel Creaciones Alicia</title>
+<link rel="icon" href="../images/site/logo.png">
+<link rel="stylesheet" href="../css/styles.css">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin-login-body">
+  <div class="admin-login-card">
+    <img src="../images/site/logo.png" alt="Florería Creaciones Alicia">
+    <h1>Panel administrativo</h1>
+    <p>Florería Creaciones Alicia</p>
+    <form id="form-login">
+      <div class="campo">
+        <label>Usuario</label>
+        <input type="text" name="username" required autocomplete="username">
+      </div>
+      <div class="campo">
+        <label>Contraseña</label>
+        <input type="password" name="password" required autocomplete="current-password">
+      </div>
+      <button type="submit" class="btn btn--primario btn--bloque">Entrar</button>
+      <div class="mensaje-envio" id="feedback-login"></div>
+    </form>
+  </div>
+
+<script>
+document.querySelector('#form-login').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const datos = Object.fromEntries(new FormData(e.target).entries());
+  const feedback = document.querySelector('#feedback-login');
+  try {
+    const res = await fetch('/api/login', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(datos)
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Error al iniciar sesión');
+    location.href = '/admin/';
+  } catch (err) {
+    feedback.textContent = err.message;
+    feedback.className = 'mensaje-envio error';
+  }
+});
+</script>
+</body>
+</html>

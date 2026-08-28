@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Florería Creaciones Alicia — Arreglos florales en Nuevo Laredo y Laredo, TX</title>
+<meta name="description" content="Florería Creaciones Alicia: ramos, arreglos y detalles florales para cumpleaños, aniversarios y toda ocasión. Entregas en Nuevo Laredo, Tamaulipas y Laredo, Texas.">
+<link rel="icon" href="images/site/logo.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<!-- ===== HEADER ===== -->
+<header class="header">
+  <div class="header__barra">
+    <a href="index.html" class="header__marca">
+      <img src="images/site/logo.png" alt="Florería Creaciones Alicia">
+      <span>Florería Creaciones Alicia NLD</span>
+    </a>
+    <nav class="header__nav">
+      <a href="index.html" class="activo">Inicio</a>
+      <a href="ocasiones.html">Ocasiones</a>
+      <a href="sobre-nosotros.html">Sobre nosotros</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+    <a class="btn btn--primario header__cta" data-whatsapp-cta data-whatsapp-mensaje="Hola, quiero hacer un pedido." target="_blank" rel="noopener">Hacer mi pedido</a>
+    <button class="header__hamburguesa" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="menu-movil">
+  <button class="menu-movil__cerrar" aria-label="Cerrar menú">&times;</button>
+  <nav class="menu-movil__enlaces">
+    <a href="index.html">Inicio</a>
+    <a href="ocasiones.html">Ocasiones</a>
+    <a href="sobre-nosotros.html">Sobre nosotros</a>
+    <a href="contacto.html">Contacto</a>
+  </nav>
+  <a class="btn btn--primario btn--bloque menu-movil__cta" data-whatsapp-cta data-whatsapp-mensaje="Hola, quiero hacer un pedido." target="_blank" rel="noopener">Hacer mi pedido</a>
+</div>
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="contenedor hero__grid">
+    <div class="hero__texto">
+      <h1>Flores para cada momento que merece ser inolvidable</h1>
+      <p>Creamos arreglos florales, ramos y detalles especiales para celebrar, sorprender, agradecer y acompañar los momentos más importantes.</p>
+      <div class="hero__botones">
+        <a href="ocasiones.html" class="btn btn--primario">Explorar arreglos</a>
+        <a class="btn btn--whatsapp" data-whatsapp-cta data-whatsapp-mensaje="Hola, quiero hacer un pedido." target="_blank" rel="noopener">Hacer mi pedido</a>
+      </div>
+      <div class="hero__cobertura">
+        <span>📍</span> <span data-content="hero.coberturaTexto">Entregamos flores y arreglos en Nuevo Laredo, Tamaulipas y Laredo, Texas.</span>
+      </div>
+    </div>
+    <div class="hero__imagen">
+      <img src="images/productos/producto_19.jpg" alt="Arreglo floral Creaciones Alicia">
+    </div>
+  </div>
+</section>
+
+<!-- ===== BENEFICIOS ===== -->
+<section class="seccion">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>¿Por qué comprar con nosotros?</h2>
+    </div>
+    <div class="beneficios">
+      <div class="beneficio">
+        <div class="beneficio__icono">🌸</div>
+        <h3>Diseños únicos</h3>
+        <p>Creamos arreglos especiales para cada ocasión.</p>
+      </div>
+      <div class="beneficio">
+        <div class="beneficio__icono">🚚</div>
+        <h3>Entrega a domicilio</h3>
+        <p>Llevamos tus flores a Nuevo Laredo y Laredo, Texas.</p>
+      </div>
+      <div class="beneficio">
+        <div class="beneficio__icono">🎉</div>
+        <h3>Para cada ocasión</h3>
+        <p>Tenemos detalles para celebrar, sorprender, agradecer o acompañar.</p>
+      </div>
+      <div class="beneficio">
+        <div class="beneficio__icono">💬</div>
+        <h3>Atención personalizada</h3>
+        <p>Te ayudamos a encontrar el arreglo perfecto.</p>
+      </div>
+      <div class="beneficio">
+        <div class="beneficio__icono">✨</div>
+        <h3>Cuidamos cada detalle</h3>
+        <p>Trabajamos para crear experiencias y momentos inolvidables.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== OCASIONES ===== -->
+<section class="seccion seccion--suave">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Encuentra flores para cada ocasión</h2>
+    </div>
+    <div class="categorias" id="grid-categorias">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== TEMPORADAS ESPECIALES (se muestran solo si están encendidas en el panel) ===== -->
+<div id="temporadas-activas"></div>
+
+<!-- ===== ARREGLOS MÁS VIRALES DE TIKTOK ===== -->
+<section class="seccion">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Los arreglos más virales de TikTok</h2>
+      <p>Míralos en video — toca cualquiera para verlo directo en TikTok.</p>
+    </div>
+    <div class="tiktok-grid" id="grid-tiktok">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== ENTREGAS A DOMICILIO (CONFIANZA) ===== -->
+<section class="seccion seccion--suave">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Entregamos con cariño, hasta la puerta de tu casa</h2>
+      <p>Así reciben nuestros clientes sus arreglos en Nuevo Laredo y Laredo, Texas.</p>
+    </div>
+    <div class="entregas-grid" id="grid-entregas">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== LO NUEVO ===== -->
+<section class="seccion">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Lo nuevo en Creaciones Alicia</h2>
+      <p>Descubre nuestros arreglos y diseños más recientes.</p>
+    </div>
+    <div class="productos-grid" id="grid-nuevos">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FAVORITOS ===== -->
+<section class="seccion seccion--suave">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Nuestros favoritos</h2>
+      <p>Los arreglos que nuestros clientes están eligiendo para sorprender y regalar.</p>
+    </div>
+    <div class="productos-grid" id="grid-favoritos">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== OFERTAS ===== -->
+<section class="seccion">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>Ofertas del mes</h2>
+      <p>Descubre algunos de nuestros arreglos favoritos con precios especiales.</p>
+    </div>
+    <div class="productos-grid" id="grid-ofertas">
+      <div class="spinner"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== COTIZA TU EVENTO ===== -->
+<section class="seccion seccion--suave">
+  <div class="contenedor centro">
+    <h2>¿Tienes un evento especial?</h2>
+    <p>Cuéntanos tu idea y creemos juntos una decoración inolvidable.</p>
+    <a href="contacto.html#cotizar-evento" class="btn btn--primario">Cotiza tu evento</a>
+  </div>
+</section>
+
+<!-- ===== FOOTER ===== -->
+<footer class="footer" id="footer"></footer>
+<a class="whatsapp-flotante" href="#" target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">
+  <svg width="28" height="28" viewBox="0 0 32 32" fill="white"><path d="M16 0C7.2 0 0 7.2 0 16c0 2.8.7 5.5 2.1 7.9L0 32l8.3-2.2c2.3 1.3 4.9 1.9 7.7 1.9 8.8 0 16-7.2 16-16S24.8 0 16 0zm0 29.3c-2.5 0-4.9-.7-7-1.9l-.5-.3-4.9 1.3 1.3-4.8-.3-.5C3 20.9 2.3 18.5 2.3 16 2.3 8.5 8.5 2.3 16 2.3S29.7 8.5 29.7 16 23.5 29.3 16 29.3zm7.6-9.6c-.4-.2-2.5-1.2-2.9-1.4-.4-.1-.7-.2-.9.2-.3.4-1.1 1.4-1.3 1.6-.2.3-.5.3-.9.1-.4-.2-1.7-.6-3.2-2-1.2-1-1.9-2.3-2.2-2.7-.2-.4 0-.6.2-.8.2-.2.4-.5.6-.7.2-.2.3-.4.4-.7.1-.3.1-.5 0-.7-.1-.2-.9-2.2-1.3-3-.3-.8-.7-.7-.9-.7h-.8c-.3 0-.7.1-1 .5-.4.4-1.4 1.3-1.4 3.2s1.4 3.7 1.6 4c.2.3 2.8 4.3 6.8 6 .9.4 1.7.6 2.3.8.9.3 1.8.2 2.4.1.7-.1 2.5-1 2.8-2 .3-1 .3-1.8.2-2-.1-.2-.4-.3-.8-.5z"/></svg>
+</a>
+
+<script src="js/main.js"></script>
+<script src="js/catalog.js"></script>
+<script src="js/footer.js"></script>
+</body>
+</html>

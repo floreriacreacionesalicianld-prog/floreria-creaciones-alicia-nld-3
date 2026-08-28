@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contacto — Florería Creaciones Alicia</title>
+<link rel="icon" href="images/site/logo.png">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="header__barra">
+    <a href="index.html" class="header__marca">
+      <img src="images/site/logo.png" alt="Florería Creaciones Alicia">
+      <span>Florería Creaciones Alicia NLD</span>
+    </a>
+    <nav class="header__nav">
+      <a href="index.html">Inicio</a>
+      <a href="ocasiones.html">Ocasiones</a>
+      <a href="sobre-nosotros.html">Sobre nosotros</a>
+      <a href="contacto.html" class="activo">Contacto</a>
+    </nav>
+    <a class="btn btn--primario header__cta" data-whatsapp-cta data-whatsapp-mensaje="Hola, quiero hacer un pedido." target="_blank" rel="noopener">Hacer mi pedido</a>
+    <button class="header__hamburguesa" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<div class="menu-movil">
+  <button class="menu-movil__cerrar" aria-label="Cerrar menú">&times;</button>
+  <nav class="menu-movil__enlaces">
+    <a href="index.html">Inicio</a>
+    <a href="ocasiones.html">Ocasiones</a>
+    <a href="sobre-nosotros.html">Sobre nosotros</a>
+    <a href="contacto.html">Contacto</a>
+  </nav>
+  <a class="btn btn--primario btn--bloque menu-movil__cta" data-whatsapp-cta data-whatsapp-mensaje="Hola, quiero hacer un pedido." target="_blank" rel="noopener">Hacer mi pedido</a>
+</div>
+
+<section class="pagina-cabecera">
+  <div class="contenedor">
+    <h1>Contáctanos</h1>
+    <p>Estamos para ayudarte a encontrar el arreglo perfecto.</p>
+  </div>
+</section>
+
+<section class="seccion">
+  <div class="contenedor" style="display:grid;gap:40px;grid-template-columns:1fr;">
+    <div class="info-contacto">
+      <div class="info-contacto__item">
+        <span class="info-contacto__icono">💬</span>
+        <div><strong>WhatsApp</strong><span data-content="contacto.whatsappDisplay">Cargando...</span></div>
+      </div>
+      <div class="info-contacto__item">
+        <span class="info-contacto__icono">📍</span>
+        <div><strong>Ubicación</strong><span data-content="contacto.direccion">Cargando...</span></div>
+      </div>
+      <div class="info-contacto__item">
+        <span class="info-contacto__icono">🕒</span>
+        <div><strong>Horarios</strong><span data-content="contacto.horarios">Cargando...</span></div>
+      </div>
+      <div class="info-contacto__item" id="fila-correo" style="display:none;">
+        <span class="info-contacto__icono">✉️</span>
+        <div><strong>Correo</strong><span data-content="contacto.correo"></span></div>
+      </div>
+    </div>
+
+    <div>
+      <h2>Envíanos un mensaje</h2>
+      <form class="formulario formulario--2col" id="form-contacto">
+        <div class="campo"><label>Nombre</label><input type="text" name="nombre" required></div>
+        <div class="campo"><label>Teléfono</label><input type="tel" name="telefono" required></div>
+        <div class="campo"><label>Correo electrónico</label><input type="email" name="correo"></div>
+        <div class="campo">
+          <label>Motivo de contacto</label>
+          <select name="motivo">
+            <option value="Pedido">Pedido</option>
+            <option value="Cotización">Cotización</option>
+            <option value="Duda">Duda</option>
+            <option value="Otro">Otro</option>
+          </select>
+        </div>
+        <div class="campo campo--ancho"><label>Mensaje</label><textarea name="mensaje" required></textarea></div>
+        <div class="campo--ancho">
+          <button type="submit" class="btn btn--primario btn--bloque">Enviar mensaje</button>
+          <div class="mensaje-envio" id="feedback-contacto"></div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+<section class="seccion seccion--suave" id="cotizar-evento">
+  <div class="contenedor">
+    <div class="seccion__encabezado">
+      <h2>¿Tienes un evento especial?</h2>
+      <p>Cuéntanos tu idea y creemos juntos una decoración inolvidable.</p>
+    </div>
+    <form class="formulario formulario--2col" id="form-evento" style="margin:0 auto;">
+      <div class="campo"><label>Nombre</label><input type="text" name="nombre" required></div>
+      <div class="campo"><label>Teléfono</label><input type="tel" name="telefono" required></div>
+      <div class="campo"><label>Correo electrónico</label><input type="email" name="correo"></div>
+      <div class="campo"><label>Fecha del evento</label><input type="date" name="fechaEvento" required></div>
+      <div class="campo"><label>Tipo de evento</label><input type="text" name="tipoEvento" placeholder="Ej. boda, XV años, corporativo"></div>
+      <div class="campo"><label>Número aproximado de invitados</label><input type="number" name="invitados" min="1"></div>
+      <div class="campo"><label>Ubicación</label><input type="text" name="ubicacion"></div>
+      <div class="campo"><label>Presupuesto aproximado</label><input type="text" name="presupuesto"></div>
+      <div class="campo campo--ancho"><label>Descripción de tu idea</label><textarea name="descripcion"></textarea></div>
+      <div class="campo campo--ancho"><label>Información adicional</label><textarea name="infoAdicional"></textarea></div>
+      <div class="campo--ancho">
+        <button type="submit" class="btn btn--primario btn--bloque">Cotiza tu evento</button>
+        <div class="mensaje-envio" id="feedback-evento"></div>
+      </div>
+    </form>
+  </div>
+</section>
+
+<footer class="footer" id="footer"></footer>
+<a class="whatsapp-flotante" href="#" target="_blank" rel="noopener" aria-label="Escríbenos por WhatsApp">
+  <svg width="28" height="28" viewBox="0 0 32 32" fill="white"><path d="M16 0C7.2 0 0 7.2 0 16c0 2.8.7 5.5 2.1 7.9L0 32l8.3-2.2c2.3 1.3 4.9 1.9 7.7 1.9 8.8 0 16-7.2 16-16S24.8 0 16 0zm0 29.3c-2.5 0-4.9-.7-7-1.9l-.5-.3-4.9 1.3 1.3-4.8-.3-.5C3 20.9 2.3 18.5 2.3 16 2.3 8.5 8.5 2.3 16 2.3S29.7 8.5 29.7 16 23.5 29.3 16 29.3zm7.6-9.6c-.4-.2-2.5-1.2-2.9-1.4-.4-.1-.7-.2-.9.2-.3.4-1.1 1.4-1.3 1.6-.2.3-.5.3-.9.1-.4-.2-1.7-.6-3.2-2-1.2-1-1.9-2.3-2.2-2.7-.2-.4 0-.6.2-.8.2-.2.4-.5.6-.7.2-.2.3-.4.4-.7.1-.3.1-.5 0-.7-.1-.2-.9-2.2-1.3-3-.3-.8-.7-.7-.9-.7h-.8c-.3 0-.7.1-1 .5-.4.4-1.4 1.3-1.4 3.2s1.4 3.7 1.6 4c.2.3 2.8 4.3 6.8 6 .9.4 1.7.6 2.3.8.9.3 1.8.2 2.4.1.7-.1 2.5-1 2.8-2 .3-1 .3-1.8.2-2-.1-.2-.4-.3-.8-.5z"/></svg>
+</a>
+
+<script src="js/main.js"></script>
+<script src="js/footer.js"></script>
+<script>
+document.querySelector('#form-contacto').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const form = e.target;
+  const datos = Object.fromEntries(new FormData(form).entries());
+  const feedback = document.querySelector('#feedback-contacto');
+  try {
+    const res = await fetch(`${API}/contacto`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(datos)
+    });
+    if (!res.ok) throw new Error();
+    feedback.textContent = '¡Gracias! Tu mensaje fue enviado. Te contactaremos pronto.';
+    feedback.className = 'mensaje-envio ok';
+    form.reset();
+  } catch {
+    feedback.textContent = 'No se pudo enviar el mensaje. Intenta de nuevo o escríbenos por WhatsApp.';
+    feedback.className = 'mensaje-envio error';
+  }
+});
+
+document.querySelector('#form-evento').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const form = e.target;
+  const datos = Object.fromEntries(new FormData(form).entries());
+  const feedback = document.querySelector('#feedback-evento');
+  try {
+    const res = await fetch(`${API}/cotizacion-evento`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(datos)
+    });
+    if (!res.ok) throw new Error();
+    feedback.textContent = '¡Gracias! Recibimos tu solicitud de cotización. Te contactaremos pronto.';
+    feedback.className = 'mensaje-envio ok';
+    form.reset();
+  } catch {
+    feedback.textContent = 'No se pudo enviar la solicitud. Intenta de nuevo o escríbenos por WhatsApp.';
+    feedback.className = 'mensaje-envio error';
+  }
+});
+
+document.addEventListener('DOMContentLoaded', async () => {
+  const content = await getSiteContent();
+  if (content.contacto && content.contacto.correo) {
+    document.querySelector('#fila-correo').style.display = 'flex';
+  }
+});
+</script>
+</body>
+</html>
