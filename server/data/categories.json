@@ -1,0 +1,132 @@
+[
+  {
+    "id": "cumpleanos",
+    "nombre": "Cumpleaños",
+    "descripcion": "El regalo perfecto para celebrar un año más.",
+    "imagen": "images/productos/producto_19.jpg",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "aniversarios",
+    "nombre": "Aniversarios",
+    "descripcion": "Ramos y buchones de rosas para el amor y los aniversarios.",
+    "imagen": "images/productos/producto_62.jpg",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "solo-porque-si",
+    "nombre": "Solo porque sí",
+    "descripcion": "Detalles espontáneos para alegrar cualquier día.",
+    "imagen": "images/productos/producto_33.jpg",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "graduaciones",
+    "nombre": "Graduaciones",
+    "descripcion": "Arreglos elegantes con lirios para ese gran logro.",
+    "imagen": "images/productos/producto_52.jpg",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "mejorate-pronto",
+    "nombre": "Mejórate pronto",
+    "descripcion": "Arreglos en jarrón para acompañar y dar ánimo.",
+    "imagen": "images/productos/producto_73.jpg",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "simpatia",
+    "nombre": "Arreglos de simpatía",
+    "descripcion": "Próximamente disponible en nuestro catálogo.",
+    "imagen": "",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "funerarios",
+    "nombre": "Arreglos funerarios",
+    "descripcion": "Próximamente disponible en nuestro catálogo.",
+    "imagen": "",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "ramos-novia",
+    "nombre": "Ramos de novia",
+    "descripcion": "Próximamente disponible en nuestro catálogo.",
+    "imagen": "",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "ramos-xv",
+    "nombre": "Ramos de quinceañera",
+    "descripcion": "Próximamente disponible en nuestro catálogo.",
+    "imagen": "",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "eventos",
+    "nombre": "Decoración para eventos",
+    "descripcion": "Próximamente disponible en nuestro catálogo.",
+    "imagen": "",
+    "activo": true,
+    "esTemporada": false,
+    "colorTema": "",
+    "fechaFin": ""
+  },
+  {
+    "id": "flores-amarillas",
+    "nombre": "Flores Amarillas",
+    "descripcion": "Temporada especial de flores amarillas — picnic amarillo.",
+    "imagen": "images/flores-amarillas/amarilla_72.jpg",
+    "activo": true,
+    "esTemporada": true,
+    "colorTema": "#f2c744",
+    "fechaFin": "2026-09-21"
+  },
+  {
+    "id": "san-valentin",
+    "nombre": "San Valentín",
+    "descripcion": "Temporada especial de San Valentín.",
+    "imagen": "",
+    "activo": false,
+    "esTemporada": true,
+    "colorTema": "#c2185b",
+    "fechaFin": ""
+  },
+  {
+    "id": "dia-de-las-madres",
+    "nombre": "Día de las Madres",
+    "descripcion": "Temporada especial del Día de las Madres.",
+    "imagen": "",
+    "activo": false,
+    "esTemporada": true,
+    "colorTema": "#e1639e",
+    "fechaFin": ""
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "marca": {
+    "nombre": "Florería Creaciones Alicia",
+    "nombreCorto": "Creaciones Alicia NLD"
+  },
+  "hero": {
+    "titulo": "Flores para cada momento que merece ser inolvidable",
+    "subtitulo": "Creamos arreglos florales, ramos y detalles especiales para celebrar, sorprender, agradecer y acompañar los momentos más importantes.",
+    "imagen": "images/productos/producto_19.jpg",
+    "coberturaTexto": "Entregamos flores y arreglos en Nuevo Laredo, Tamaulipas y Laredo, Texas."
+  },
+  "objetivo": {
+    "titulo": "Nuestro objetivo",
+    "texto": "En Florería Creaciones Alicia creemos que las flores tienen la capacidad de expresar aquello que muchas veces las palabras no pueden decir. Nuestro objetivo es ayudarte a convertir cada momento en un recuerdo especial, creando arreglos y detalles con creatividad, dedicación y atención a cada pequeño detalle."
+  },
+  "historia": {
+    "texto": "Aquí puedes contar la historia de Florería Creaciones Alicia: cómo comenzó, qué la inspira y qué la hace diferente. (Texto editable desde el panel de administración)."
+  },
+  "contacto": {
+    "whatsapp": "8677422686",
+    "whatsappDisplay": "867 742 2686",
+    "telefono": "867 742 2686",
+    "correo": "",
+    "direccion": "Carretera Anáhuac #7425, Colonia La Fe",
+    "horarios": "Editable desde el panel de administración",
+    "facebook": "https://facebook.com/creaciones_alicia_nld",
+    "instagram": "https://instagram.com/floreria_alicia_nld",
+    "tiktok": "https://tiktok.com/@creaciones_alicia_nld"
+  },
+  "envios": {
+    "titulo": "Llevamos tus flores hasta donde quieras sorprender",
+    "texto": "Realizamos entregas en Nuevo Laredo, Tamaulipas y Laredo, Texas. El servicio de entrega tiene un costo adicional e incluye una tolerancia de espera de 10 minutos. Si no hay alguien en el domicilio, el arreglo podrá entregarse a un vecino (si está disponible) o será devuelto a la tienda. No manejamos horarios exactos de entrega; se solicita proporcionar un rango de horario (por ejemplo, de 3:00 p.m. a 6:00 p.m.)."
+  },
+  "pagos": {
+    "titulo": "Métodos de pago",
+    "texto": "Se solicita un anticipo del 50% para confirmar el pedido, y el 50% restante deberá liquidarse el día de la entrega.",
+    "metodos": [
+      "Depósito o transferencia bancaria",
+      "Pago directo en nuestro local"
+    ]
+  },
+  "politicas": {
+    "disponibilidad": "Los tonos, tipos de flores, follajes y envolturas pueden variar según la disponibilidad del día, garantizando siempre un resultado hermoso y de alta calidad.",
+    "cancelaciones": "Las cancelaciones están sujetas a restricciones.",
+    "anticipacion": "Editable desde el panel de administración.",
+    "personalizados": "Editable desde el panel de administración."
+  },
+  "cambiosYCancelaciones": {
+    "texto": "Editable desde el panel de administración: aquí puedes describir tu política de cambios, modificaciones y cancelaciones de pedidos."
+  },
+  "tiktoks": [],
+  "entregas": {
+    "titulo": "Entregamos con cariño, hasta la puerta de tu casa",
+    "texto": "Así reciben nuestros clientes sus arreglos. Fotos y videos reales de entregas a domicilio.",
+    "medios": []
+  }
+}

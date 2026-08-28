@@ -1,0 +1,3464 @@
+[
+  {
+    "id": "p11",
+    "numero": 11,
+    "nombre": "Bouquet de Gerberas, Hortensia y Rosa",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "4 gerberas",
+      "1 hortensia",
+      "1 rosa",
+      "claveles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_11.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p12",
+    "numero": 12,
+    "nombre": "Bouquet de Gerbera y Rosas con Peluche",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 gerbera",
+      "1 perrito (peluche)",
+      "5 rosas",
+      "margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_12.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p13",
+    "numero": 13,
+    "nombre": "Bouquet de Gerberas y 30 Rosas",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 gerberas",
+      "30 rosas",
+      "margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_13.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p14",
+    "numero": 14,
+    "nombre": "Bouquet de Gerberas y Crisantemos",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "4 gerberas",
+      "crisantemos",
+      "margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_14.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p17",
+    "numero": 17,
+    "nombre": "Bouquet Mixto de Gerberas, Rosas y Peonía",
+    "categorias": [
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Incluye referencia de tamaño",
+    "incluye": [
+      "Flores mixtas: gerberas, rosas y peonía (en colores rojo y rosa)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_17.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p19",
+    "numero": 19,
+    "nombre": "Bouquet Grande de 100 Rosas y Gerberas",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "100 rosas",
+      "10 gerberas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_19.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p31",
+    "numero": 31,
+    "nombre": "Bouquet de Girasol y Flores Mixtas",
+    "categorias": [
+      "solo-porque-si",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 girasol",
+      "baby breath",
+      "claveles",
+      "astromelia"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_31.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p32",
+    "numero": 32,
+    "nombre": "Bouquet de 3 Girasoles",
+    "categorias": [
+      "solo-porque-si",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 girasoles",
+      "follaje de girasol baby"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_32.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p33",
+    "numero": 33,
+    "nombre": "Bouquet de 10 Girasoles",
+    "categorias": [
+      "solo-porque-si",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "También se puede agregar follaje de girasol baby con costo extra",
+    "incluye": [
+      "10 girasoles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_33.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p34",
+    "numero": 34,
+    "nombre": "20 Rosas Estilo Miss Universe",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo Miss Universe",
+    "incluye": [
+      "20 rosas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_34.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p35",
+    "numero": 35,
+    "nombre": "20 Rosas con Baby Breath Miss Universe",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo Miss Universe",
+    "incluye": [
+      "20 rosas",
+      "baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_35.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p36",
+    "numero": 36,
+    "nombre": "20 Rosas y Gerbera Estilo Abanico",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "20 rosas",
+      "1 gerbera"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_36.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p37",
+    "numero": 37,
+    "nombre": "25 Rosas con Astromelia Estilo Buchón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "25 rosas",
+      "astromelia alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_37.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p38",
+    "numero": 38,
+    "nombre": "20 Rosas con Estatis Estilo Buchón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "20 rosas",
+      "estatis alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_38.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p39",
+    "numero": 39,
+    "nombre": "40 Rosas con Estatis Estilo Buchón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "40 rosas",
+      "estatis alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_39.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p40",
+    "numero": 40,
+    "nombre": "70 Rosas con Estatis Estilo Abanico",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "70 rosas",
+      "estatis"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_40.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p41",
+    "numero": 41,
+    "nombre": "40 Rosas de Color con Banda Personalizada",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": true,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Banda con frase opcional. Envoltorio estilo buchón. Incluye referencia de tamaño",
+    "incluye": [
+      "40 rosas de color"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_41.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p42",
+    "numero": 42,
+    "nombre": "30 Rosas y 5 Gerberas Estilo Abanico",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "30 rosas",
+      "5 gerberas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_42.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p44",
+    "numero": 44,
+    "nombre": "Lirios, Gerberas y Rosa Estilo Abanico",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "2 lirios",
+      "2 gerberas",
+      "1 rosa",
+      "margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_44.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p45",
+    "numero": 45,
+    "nombre": "Lirios, Gerbera y Rosas con Baby Breath",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "2 lirios",
+      "1 gerbera",
+      "3 rosas",
+      "baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_45.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p46",
+    "numero": 46,
+    "nombre": "Lirios, Gerberas, Rosas y Tulipán",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "2 lirios",
+      "2 gerberas",
+      "8 rosas",
+      "1 tulipán"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_46.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p47",
+    "numero": 47,
+    "nombre": "Ramo de Lirios",
+    "categorias": [
+      "graduaciones"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "Ramo de lirios"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_47.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p48",
+    "numero": 48,
+    "nombre": "20 Rosas con Lirios",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "20 rosas",
+      "lirios"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_48.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p49",
+    "numero": 49,
+    "nombre": "15 Rosas con Lirio y Baby Breath",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "15 rosas",
+      "1 lirio",
+      "baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_49.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p50",
+    "numero": 50,
+    "nombre": "45 Rosas con Lirios y Eucalipto",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "2 lirios",
+      "45 rosas",
+      "eucalipto"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_50.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p51",
+    "numero": 51,
+    "nombre": "45 Rosas con Lirios",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "45 rosas",
+      "lirios"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_51.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p52",
+    "numero": 52,
+    "nombre": "100 Rosas con Lirios Estilo Buchón",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "100 rosas",
+      "lirios"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_52.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p53",
+    "numero": 53,
+    "nombre": "100 Rosas con Lirios",
+    "categorias": [
+      "graduaciones",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "100 rosas",
+      "lirios"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_53.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p54",
+    "numero": 54,
+    "nombre": "48 Rosas con Banda Personalizada",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón. Incluye referencia de tamaño",
+    "incluye": [
+      "48 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_54.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p55",
+    "numero": 55,
+    "nombre": "48 Rosas Estilo Buchón",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": true,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "48 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_55.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p56",
+    "numero": 56,
+    "nombre": "70 Rosas con Baby Breath Alrededor",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "70 rosas",
+      "baby breath alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_56.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p57",
+    "numero": 57,
+    "nombre": "70 Rosas con Tulipanes y Baby Breath",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "70 rosas",
+      "18 tulipanes",
+      "baby breath alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_57.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p58",
+    "numero": 58,
+    "nombre": "70 Rosas con 18 Tulipanes",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "70 rosas",
+      "18 tulipanes"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_58.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p59",
+    "numero": 59,
+    "nombre": "100 Rosas con Baby Breath y Banda",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo abanico",
+    "incluye": [
+      "100 rosas",
+      "baby breath",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_59.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p60",
+    "numero": 60,
+    "nombre": "Ramo Buchón de Margaritas, Crisantemos y Claveles",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Tamaño aproximado de 100 rosas. Envoltorio estilo abanico",
+    "incluye": [
+      "Ramo buchón de margaritas, crisantemos y claveles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_60.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p61",
+    "numero": 61,
+    "nombre": "Ramo Buchón de Margaritas, Rosas y Tulipán",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Tamaño aproximado de 100 rosas. Envoltorio estilo abanico",
+    "incluye": [
+      "Ramo buchón de margaritas, rosas y 1 tulipán"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_61.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p62",
+    "numero": 62,
+    "nombre": "100 Rosas con Banda Personalizada",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "100 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": true,
+    "fotos": [
+      "images/productos/producto_62.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p63",
+    "numero": 63,
+    "nombre": "100 Rosas Estilo Buchón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "100 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_63.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p64",
+    "numero": 64,
+    "nombre": "100 Rosas con Corona Premium",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "100 rosas",
+      "banda con frase",
+      "corona premium"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": true,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_64.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p65",
+    "numero": 65,
+    "nombre": "200 Rosas con Banda Personalizada",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón. Incluye referencia de tamaño",
+    "incluye": [
+      "200 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_65.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p66",
+    "numero": 66,
+    "nombre": "200 Rosas Estilo Buchón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "200 rosas",
+      "banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_66.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p67",
+    "numero": 67,
+    "nombre": "200 Rosas con Perritos de Peluche",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "200 rosas",
+      "perritos (peluches) alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_67.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p68",
+    "numero": 68,
+    "nombre": "200 Rosas en Forma de Corazón",
+    "categorias": [
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Envoltorio estilo buchón",
+    "incluye": [
+      "200 rosas en forma de corazón",
+      "moño con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": true,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_68.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p69",
+    "numero": 69,
+    "nombre": "Arreglo en Jarrón de Peonía, Tulipán y Rosas",
+    "categorias": [
+      "mejorate-pronto",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "1 peonía",
+      "2 tulipanes",
+      "3 rosas",
+      "claveles",
+      "margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_69.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p70",
+    "numero": 70,
+    "nombre": "Arreglo en Jarrón de Rosa y Claveles",
+    "categorias": [
+      "mejorate-pronto"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Flores mixtas: rosa, claveles y follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_70.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p71",
+    "numero": 71,
+    "nombre": "Arreglo en Jarrón de Rosa, Claveles y Estatis",
+    "categorias": [
+      "mejorate-pronto"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Flores mixtas: rosa, claveles y estatis"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_71.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p72",
+    "numero": 72,
+    "nombre": "Arreglo en Jarrón de Gerberas, Rosas y Astromelia",
+    "categorias": [
+      "mejorate-pronto",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": true,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Flores mixtas: gerberas, rosas, astromelia, follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_72.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p73",
+    "numero": 73,
+    "nombre": "Arreglo en Jarrón de Gerberas, Hortensia y Rosas",
+    "categorias": [
+      "mejorate-pronto",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Flores mixtas: gerberas, hortensia, rosas, astromelia, follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_73.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p74",
+    "numero": 74,
+    "nombre": "Arreglo en Jarrón Vista 360° de Rosas y Claveles",
+    "categorias": [
+      "mejorate-pronto"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Flores mixtas: rosas, claveles, margaritas, follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_74.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p75",
+    "numero": 75,
+    "nombre": "Arreglo en Jarrón de Peonías y 70 Rosas",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "2 peonías",
+      "70 rosas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_75.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p76",
+    "numero": 76,
+    "nombre": "Arreglo en Jarrón de Orquídeas y Rosas",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Orquídeas",
+      "70 rosas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_76.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p77",
+    "numero": 77,
+    "nombre": "Arreglo en Jarrón de Peonías, Rosas y Claveles",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "3 peonías",
+      "rosas",
+      "claveles",
+      "crisantemos"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": true,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_77.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p78",
+    "numero": 78,
+    "nombre": "Arreglo en Jarrón Vista 360° de Flores Mixtas",
+    "categorias": [
+      "mejorate-pronto"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Flores mixtas: margaritas, claveles, crisantemos, follajes"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_78.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p79",
+    "numero": 79,
+    "nombre": "Arreglo en Jarrón de Margaritas, Rosas y Perritos",
+    "categorias": [
+      "mejorate-pronto"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Flores mixtas: margaritas, rosas, roxana, perritos, follajes"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_79.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p80",
+    "numero": 80,
+    "nombre": "Jarrón de Girasoles",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Jarrón de girasoles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_80.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p81",
+    "numero": 81,
+    "nombre": "Jarrón de Girasoles y Rosas",
+    "categorias": [
+      "cumpleanos",
+      "solo-porque-si"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Girasoles",
+      "rosas",
+      "leticias"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_81.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p82",
+    "numero": 82,
+    "nombre": "Arreglo en Jarrón de Flores Mixtas Premium",
+    "categorias": [
+      "cumpleanos",
+      "aniversarios"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo vista 360°, en jarrón",
+    "incluye": [
+      "Flores mixtas: rosas, hortensias, gerberas, lirios, morelianas, margaritas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": true,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_82.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "p83",
+    "numero": 83,
+    "nombre": "Arreglo de 100 Rosas Rojas",
+    "categorias": [
+      "aniversarios",
+      "cumpleanos"
+    ],
+    "precio": null,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Arreglo de un solo frente, en jarrón",
+    "incluye": [
+      "Arreglo de 100 rosas rojas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": true,
+    "masVendido": false,
+    "fotos": [
+      "images/productos/producto_83.jpg"
+    ],
+    "creadoEn": "2026-08-23",
+    "videos": [],
+    "colores": [],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa17",
+    "numero": 17,
+    "nombre": "Flores Amarillas en Jarrón Pequeño",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 100,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Flores amarillas",
+      "Jarrón pequeño"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_17.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa18",
+    "numero": 18,
+    "nombre": "Bouquet de Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 350,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Flores amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_18.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa19",
+    "numero": 19,
+    "nombre": "Bouquet de Flores Blancas y Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 380,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Flores blancas y amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_19.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa20",
+    "numero": 20,
+    "nombre": "Ramo Libre de Botones en Tonos Amarillos y Blancos",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1100,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Ramo de estilo libre sin flores específicas, sujeto a disponibilidad, en tonos amarillos y blancos.",
+    "incluye": [
+      "30 a 35 botones de flores diferentes"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_20.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa21",
+    "numero": 21,
+    "nombre": "Especial Yellow vs Pink",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 800,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "El especial Yellow vs Pink",
+    "incluye": [
+      "3 girasoles",
+      "3 gerberas",
+      "Rosas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_21.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa22",
+    "numero": 22,
+    "nombre": "Bouquet Mixto Blanco y Amarillo",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1380,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Colores de flor mixtos entre blanco y amarillo",
+    "incluye": [
+      "12 rosas amarillas",
+      "1 girasol",
+      "3 gerberas",
+      "2 lirios",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_22.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa23",
+    "numero": 23,
+    "nombre": "Bouquet Solo de Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1550,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Solo con flores amarillas",
+    "incluye": [
+      "12 rosas amarillas",
+      "2 girasoles",
+      "3 gerberas",
+      "2 lirios",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_23.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa24",
+    "numero": 24,
+    "nombre": "Flores Amarillas con Ferrero Rocher",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1300,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Flores amarillas variadas",
+      "Ferrero Rocher"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_24.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa26",
+    "numero": 26,
+    "nombre": "3 Rosas Amarillas con Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 250,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 rosas amarillas",
+      "Flores amarillas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_26.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa27",
+    "numero": 27,
+    "nombre": "6 Rosas Amarillas con Baby Breath",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 480,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "6 rosas amarillas",
+      "Baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_27.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa28",
+    "numero": 28,
+    "nombre": "12 Rosas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 550,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "12 rosas amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_28.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa29",
+    "numero": 29,
+    "nombre": "12 Rosas Amarillas con Follaje",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 580,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "12 rosas amarillas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_29.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa30",
+    "numero": 30,
+    "nombre": "12 Rosas Amarillas con Solidago",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 650,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "12 rosas amarillas",
+      "Solidago",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_30.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa31",
+    "numero": 31,
+    "nombre": "12 Rosas Amarillas en Jarrón",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 720,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "12 rosas amarillas",
+      "Follaje",
+      "Jarrón"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_31.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa32",
+    "numero": 32,
+    "nombre": "20 Rosas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_32.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa33",
+    "numero": 33,
+    "nombre": "20 Rosas Amarillas con Banda Personalizada",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas",
+      "Banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_33.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa34",
+    "numero": 34,
+    "nombre": "20 Rosas con Flores Amarillas Alrededor",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas",
+      "Flores amarillas alrededor"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_34.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa35",
+    "numero": 35,
+    "nombre": "20 Rosas Amarillas con Girasol y Malla de Perlas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1100,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas",
+      "1 girasol",
+      "Malla de perlas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_35.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa36",
+    "numero": 36,
+    "nombre": "30 Rosas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1120,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "30 rosas amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_36.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa37",
+    "numero": 37,
+    "nombre": "30 Rosas Amarillas con Banda Personalizada",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1120,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "30 rosas amarillas",
+      "Banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_37.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa38",
+    "numero": 38,
+    "nombre": "30 Rosas Amarillas y Blancas con Banda",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1100,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "30 rosas amarillas y blancas",
+      "Banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_38.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa40",
+    "numero": 40,
+    "nombre": "Lirio Rosa con Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 450,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 lirio rosa",
+      "Flores amarillas variadas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_40.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa41",
+    "numero": 41,
+    "nombre": "Lirio y Gerbera Rosa con Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 680,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 lirio rosa",
+      "1 gerbera rosa",
+      "Flores amarillas variadas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_41.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa42",
+    "numero": 42,
+    "nombre": "3 Lilys Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 450,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 lilys amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_42.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa43",
+    "numero": 43,
+    "nombre": "Lily Amarilla con Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 550,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Lily amarilla",
+      "Flores amarillas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_43.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa44",
+    "numero": 44,
+    "nombre": "Lirio Amarillo con Rosas Amarillas y Blancas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 700,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 lirio amarillo",
+      "3 rosas amarillas y blancas",
+      "Flores amarillas variadas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_44.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa46",
+    "numero": 46,
+    "nombre": "20 Rosas con Lilys Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas",
+      "Lilys amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_46.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa47",
+    "numero": 47,
+    "nombre": "20 Rosas Amarillas con Lily Blanca",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 980,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 rosas amarillas",
+      "1 lily blanca",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_47.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa48",
+    "numero": 48,
+    "nombre": "40 Rosas Amarillas con Lily",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1850,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "40 rosas amarillas",
+      "1 lily amarilla",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_48.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa50",
+    "numero": 50,
+    "nombre": "1 Girasol con Follaje",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 100,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "1 girasol",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_50.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa51",
+    "numero": 51,
+    "nombre": "2 Girasoles con Baby Breath",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 350,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "2 girasoles",
+      "Baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_51.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa52",
+    "numero": 52,
+    "nombre": "3 Girasoles",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 400,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 girasoles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_52.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa53",
+    "numero": 53,
+    "nombre": "3 Girasoles con Flores Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 400,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "3 girasoles",
+      "Flores amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_53.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa54",
+    "numero": 54,
+    "nombre": "4 Girasoles con Baby Breath",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 500,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "4 girasoles",
+      "Baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_54.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa55",
+    "numero": 55,
+    "nombre": "10 Girasoles en Jarrón",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 900,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "10 girasoles",
+      "Jarrón"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_55.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa56",
+    "numero": 56,
+    "nombre": "6 Girasoles con Follaje",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 720,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "6 girasoles",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_56.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa57",
+    "numero": 57,
+    "nombre": "6 Girasoles con Follaje Grande",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 820,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "6 girasoles",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_57.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa58",
+    "numero": 58,
+    "nombre": "7 Girasoles con Astromelia Rosa",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 920,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "7 girasoles",
+      "Astromelia rosa"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_58.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa59",
+    "numero": 59,
+    "nombre": "10 Girasoles Vertical",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "10 girasoles (vertical)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_59.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa60",
+    "numero": 60,
+    "nombre": "10 Girasoles Estilo Buchón",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "10 girasoles (buchón)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_60.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa61",
+    "numero": 61,
+    "nombre": "20 Girasoles Estilo Buchón",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 1800,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 girasoles (buchón)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_61.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa62",
+    "numero": 62,
+    "nombre": "20 Girasoles Buchón Grande",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 2000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 girasoles (buchón)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_62.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa63",
+    "numero": 63,
+    "nombre": "40 Rosas Amarillas con 5 Girasoles",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 2000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "40 rosas amarillas",
+      "5 girasoles"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_63.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa65",
+    "numero": 65,
+    "nombre": "12 Rosas Amarillas con Gerberas Mixtas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "Colores de flor mixtos entre blanco y amarillo",
+    "incluye": [
+      "12 rosas amarillas",
+      "5 gerberas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_65.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa66",
+    "numero": 66,
+    "nombre": "12 Rosas y 4 Gerberas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 880,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "12 rosas amarillas",
+      "4 gerberas amarillas",
+      "Follaje"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_66.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa67",
+    "numero": 67,
+    "nombre": "10 Gerberas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 720,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "10 gerberas amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_67.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa68",
+    "numero": 68,
+    "nombre": "40 Rosas y 7 Gerberas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 2000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "40 rosas amarillas",
+      "7 gerberas amarillas"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_68.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa69",
+    "numero": 69,
+    "nombre": "20 Gerberas con Baby Breath",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 2300,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "20 gerberas",
+      "Baby breath"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_69.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa71",
+    "numero": 71,
+    "nombre": "Buchón de 30 Gerberas Amarillas",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 3000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Ramo de 30 gerberas amarillas",
+      "Baby breath alrededor",
+      "Banda con frase"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_71.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa72",
+    "numero": 72,
+    "nombre": "Buchón de 100 Rosas Amarillas con Corona",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 3000,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Ramo de 100 rosas amarillas",
+      "Mini corona",
+      "Malla de perlas",
+      "Banda con frase (opcional)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_72.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa73",
+    "numero": 73,
+    "nombre": "Buchón de 100 Rosas Amarillas Grande",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 3250,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Ramo de 100 rosas amarillas",
+      "Mini corona",
+      "Malla de perlas",
+      "Banda con frase (opcional)"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_73.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  },
+  {
+    "id": "fa74",
+    "numero": 74,
+    "nombre": "Buchón de 100 Rosas y Lilys con Snoopy",
+    "categorias": [
+      "flores-amarillas"
+    ],
+    "precio": 3300,
+    "precioOferta": null,
+    "enOferta": false,
+    "ofertaInicio": null,
+    "ofertaFin": null,
+    "descripcion": "",
+    "incluye": [
+      "Ramo de 100 rosas amarillas",
+      "Lilys amarillas",
+      "Follaje alrededor",
+      "Peluche de Snoopy"
+    ],
+    "tamano": "",
+    "disponible": true,
+    "activo": true,
+    "esNuevo": false,
+    "masVendido": false,
+    "fotos": [
+      "images/flores-amarillas/amarilla_74.jpg"
+    ],
+    "creadoEn": "2026-08-25",
+    "videos": [],
+    "colores": [
+      "amarillo"
+    ],
+    "iconoColor": "rosa"
+  }
+]
